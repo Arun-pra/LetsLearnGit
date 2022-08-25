@@ -2,7 +2,7 @@
 void main()
 {
     int a=3,b=8,c;
-    c=a+b;
+    c=a*b;
     printf(":%d",c);
     
 }
